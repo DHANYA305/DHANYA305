@@ -10,7 +10,7 @@
 
 I am a Computer Science Engineering student passionate about developing reliable, scalable backend systems, secure automation tools, and Agentic AI applications. I enjoy participating in fast-paced hackathons and solving challenging data workflows.
 
-* 🎓 **Education:** Pursuing a B.E. in Computer Science Engineering at Vidyavardhaka College of Engineering (Class of 2027)
+
 * 🔭 **Recent Projects:** Built **PR Guardian** (an IaC security bot) and an **Agentic AI Customer Support Routing System**
 * 🌱 **Learning Focus:** Deepening my knowledge in DevOps pipelines, CI/CD security, and Cloud Engineering
 * 💬 **Ask me about:** Java, Node.js, Express, Flask, RAG workflows, or Vector DBs
